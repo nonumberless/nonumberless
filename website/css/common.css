@@ -1,0 +1,32 @@
+@charset "utf-8";
+body, h1, h2, h3, p, quote, small, form, input, ul, li, ol, label {
+	margin:0px;
+	padding:0px;
+}
+html {
+}
+
+body {
+	color:#ccc;
+	font-size:12px;
+	font-family:"ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	background:#111;
+	background:url(../img/body_bg.jpg) repeat fixed;
+}
+h2 {
+	font-style:italic;
+	font-size:14px;
+}
+/* link */
+
+a img {
+	border: none;
+}
+a, a:visited {
+	color:#999;
+	text-decoration:none;
+	outline:none;
+}
+a:hover {
+	text-decoration:underline;
+}

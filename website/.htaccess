@@ -1,0 +1,4 @@
+ErrorDocument 403 http://nonumberless.com/403.html
+ErrorDocument 404 http://nonumberless.com/404.html
+ErrorDocument 500 http://nonumberless.com/500.html
+
